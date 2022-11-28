@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: d081540b08b2615438d395f4663dfa91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4290857380822448802
+    second: favpng_cirno-sprite-touhou-project-pixel-art_0
+  - first:
+      213: 1859693296785886370
+    second: favpng_cirno-sprite-touhou-project-pixel-art_1
+  - first:
+      213: -4460334299470082986
+    second: favpng_cirno-sprite-touhou-project-pixel-art_2
+  - first:
+      213: 257811862349640303
+    second: favpng_cirno-sprite-touhou-project-pixel-art_3
+  - first:
+      213: 5958387480729617304
+    second: favpng_cirno-sprite-touhou-project-pixel-art_4
+  - first:
+      213: -2093430858083739010
+    second: favpng_cirno-sprite-touhou-project-pixel-art_5
+  - first:
+      213: -4358885431470660441
+    second: favpng_cirno-sprite-touhou-project-pixel-art_6
+  - first:
+      213: 7038464655084433349
+    second: favpng_cirno-sprite-touhou-project-pixel-art_7
+  - first:
+      213: 719977484968409302
+    second: favpng_cirno-sprite-touhou-project-pixel-art_8
+  - first:
+      213: -8796180256951882891
+    second: favpng_cirno-sprite-touhou-project-pixel-art_9
+  - first:
+      213: 5902820187429252154
+    second: favpng_cirno-sprite-touhou-project-pixel-art_10
+  - first:
+      213: 2526349647000795322
+    second: favpng_cirno-sprite-touhou-project-pixel-art_11
+  - first:
+      213: -7929882239475123376
+    second: favpng_cirno-sprite-touhou-project-pixel-art_12
+  - first:
+      213: -4155468536791050494
+    second: favpng_cirno-sprite-touhou-project-pixel-art_13
+  - first:
+      213: 900051485287181703
+    second: favpng_cirno-sprite-touhou-project-pixel-art_14
+  - first:
+      213: -3093057883595718917
+    second: favpng_cirno-sprite-touhou-project-pixel-art_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 752
+        width: 160
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaf8cdcd003c8b30800000000000000
+      internalID: 4290857380822448802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 744
+        width: 160
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac091a4335fec910800000000000000
+      internalID: 1859693296785886370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 752
+        width: 160
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c48942695b912c0800000000000000
+      internalID: -4460334299470082986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 744
+        width: 160
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f627b3ad58ee39300800000000000000
+      internalID: 257811862349640303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 168
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893060748d170b250800000000000000
+      internalID: 5958387480729617304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 504
+        width: 168
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ad31ed9b3a2f2e0800000000000000
+      internalID: -2093430858083739010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 504
+        width: 168
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4e0906bc02283c0800000000000000
+      internalID: -4358885431470660441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 504
+        width: 168
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf237aff46ada160800000000000000
+      internalID: 7038464655084433349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 168
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d832dd35bfddf900800000000000000
+      internalID: 719977484968409302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 168
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b241419a0bde580800000000000000
+      internalID: -8796180256951882891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 168
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca9bc9fa70be150800000000000000
+      internalID: 5902820187429252154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 256
+        width: 168
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab87ae76e956f0320800000000000000
+      internalID: 2526349647000795322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 160
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bf7651e1663f190800000000000000
+      internalID: -7929882239475123376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 160
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207d145e16fc456c0800000000000000
+      internalID: -4155468536791050494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 8
+        width: 160
+        height: 232
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dea14ae00ad7c00800000000000000
+      internalID: 900051485287181703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_cirno-sprite-touhou-project-pixel-art_15
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 160
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe3e8a1e304315d0800000000000000
+      internalID: -3093057883595718917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
