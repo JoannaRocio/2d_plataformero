@@ -22,11 +22,32 @@ public class PlayerController : MonoBehaviour
             //Forma de mover el objeto
             //gameObject.transform.Translate(-1 * Time.deltaTime, 0,0);
             gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(-100f * Time.deltaTime, 0));
+<<<<<<< HEAD
+=======
+
+            //Instrucción para que moving sea true al moverse
+            gameObject.GetComponent<Animator>().SetBool("moving", true);
+
+            //Instrucción para voltear horizontalmente el personaje y que mire hacia el otro lado
+            gameObject.GetComponent<SpriteRenderer>().flipX = true;
+>>>>>>> e0f40ebfefea26c49915947c54ba07b371b257ac
         }
 
         if (Input.GetKey("right"))
         {
             gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(100f * Time.deltaTime, 0));
+<<<<<<< HEAD
+=======
+
+            gameObject.GetComponent<Animator>().SetBool("moving", true);
+
+            gameObject.GetComponent<SpriteRenderer>().flipX = false;
+        }
+
+        if (!Input.GetKey("left") && !Input.GetKey("right"))
+        {
+            gameObject.GetComponent<Animator>().SetBool("moving", false);
+>>>>>>> e0f40ebfefea26c49915947c54ba07b371b257ac
         }
 
         if (Input.GetKeyDown("up") && canJump)

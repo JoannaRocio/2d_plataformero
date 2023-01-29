@@ -2,9 +2,15 @@
 
 ## [3.0.16] - 2022-09-09
 
+<<<<<<< HEAD
 - Update the changelog
 - Add folders to the generated csproj files
 - Avoid extra RequestScriptReload call on the first start
+=======
+- Update the changelog
+- Add folders to the generated csproj files
+- Avoid extra RequestScriptReload call on the first start
+>>>>>>> e0f40ebfefea26c49915947c54ba07b371b257ac
 - Fix shader support for folders in packages, but outside asmdef
 
 
